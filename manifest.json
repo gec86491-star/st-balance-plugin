@@ -1,0 +1,7 @@
+{
+  "name": "ST Balance Monitor",
+  "version": "1.0.0",
+  "author": "kkt",
+  "description": "Show API balance in SillyTavern",
+  "entry": "index.js"
+}
